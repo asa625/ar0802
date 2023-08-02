@@ -1,0 +1,6 @@
+<model-viewer src="RobotExpressive.glb" ar ar-modes="scene-viewer webxr quick-look" camera-controls poster="poster.webp" shadow-intensity="0.68" autoplay animation-name="Walking" shadow-softness="0.35">
+    <button class="Hotspot" slot="hotspot-1" data-surface="2 1 850 851 852 0.058 0.781 0.160" data-visibility-attribute="visible"></button>
+    <button slot="ar-button" id="ar-button">
+        View in your space
+    </button>
+</model-viewer>
